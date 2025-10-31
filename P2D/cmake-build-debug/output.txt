@@ -1,0 +1,15 @@
+Equation #1 is valid:2+(14-9)+4*[6+(7+5)-1]
+
+Equation #2 is not valid:2+(14-9)+4[6+(8+5)-1]
+
+Equation #3 is not valid:2+(14-9)+4*[6+(7+5-1]
+
+Equation #4 is valid:2+(5-3)
+
+Valid equation number #1 in prefix:++ 2 - 14 9* 4 - + 6 + 7 5 1
+
+Valid equation number #2 in prefix:+ 2 - 5 3
+
+valid Equation result #1->75
+
+valid Equation result #2->4
